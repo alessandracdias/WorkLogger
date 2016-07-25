@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Work Logger</string>
+    <string name="action_settings">Company Settings</string>
+    <string name="start_log_hint">Start Time</string>
+    <string name="stop_log_hint">Stop Time</string>
+    <string name="date_work_log_hint">Work Log Date</string>
+    <string name="button_create_log">Create Log</string>
+    <string name="start_log">Start Log</string>
+    <string name="label_log_date">Work Log: </string>
+    <string name="label_start_log">Start Time: </string>
+    <string name="label_stop_log">Stop Time: </string>
+    <string name="save_log">Save Log</string>
+    <string name="alert_create_log_title">Create Work Log</string>
+    <string name="alert_create_log_message">Save Work Log?</string>
+    <string name="cancel_save_log">Cancel</string>
+    <string name="option_yes">Yes</string>
+    <string name="option_no">No</string>
+    <string name="option_ok">Ok</string>
+    <string name="saved_current_millis">current_millis</string>
+    <string name="alert_required_field_title">Required Fields</string>
+    <string name="alert_required_field_message">It\'s necessary fill all fields.</string>
+    <string name="date_separator_screen">/</string>
+    <string name="date_separator_database">-</string>
+    <string name="hour_separator">:</string>
+    <string name="button_back">Back</string>
+    <string name="snack_message">Work Logs</string>
+    <string name="snack_action_title">List</string>
+    <string name="company_name">Company Name</string>
+    <string name="company_shift_time">Shift Time</string>
+    <string name="company_latitude">Latitude</string>
+    <string name="company_longitude">Longitude</string>
+    <string name="button_save_comp">Save</string>
+    <string name="select_date">Select Date</string>
+    <string name="select_time">Select Time</string>
+</resources>

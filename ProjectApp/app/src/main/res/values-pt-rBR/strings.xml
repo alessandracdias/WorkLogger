@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">Config. Empresa</string>
+    <string name="start_log_hint">Início Ponto</string>
+    <string name="stop_log_hint">Fim Ponto</string>
+    <string name="date_work_log_hint">Data Ponto</string>
+    <string name="button_create_log">Criar Registro</string>
+    <string name="start_log">Iniciar</string>
+    <string name="label_log_date">Data Ponto: </string>
+    <string name="label_start_log">Início Ponto: </string>
+    <string name="label_stop_log">Fim Ponto: </string>
+    <string name="save_log">Salvar</string>
+    <string name="alert_create_log_title">Registrar Ponto</string>
+    <string name="alert_create_log_message">Deseja registrar ponto?</string>
+    <string name="cancel_save_log">Cancelar</string>
+    <string name="option_yes">Sim</string>
+    <string name="option_no">Não</string>
+    <string name="alert_required_field_title">Campos Requeridos</string>
+    <string name="alert_required_field_message">É necessário preencher todos os campos.</string>
+    <string name="button_back">Voltar</string>
+    <string name="snack_message">Registro de Pontos</string>
+    <string name="snack_action_title">Listar</string>
+    <string name="company_name">Nome da Empresa</string>
+    <string name="company_shift_time">Duração Turno</string>
+    <string name="button_save_comp">Salvar</string>
+    <string name="select_date">Selecionar Dia</string>
+    <string name="select_time">Selecionar Hora</string>
+</resources>
